@@ -1,10 +1,18 @@
 
 ## Image Classification
 
+### 2024
+- Roll with the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29068/30023)
+  [[code]](https://github.com/NJUyued/SoC4SS-FGVC)
+  - Yue Duan, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi. *AAAI 2024*
+  
 ### 2023
 
 - Towards Semi-supervised Learning with Non-random Missing Labels.
   [[pdf]](https://arxiv.org/pdf/2308.08872.pdf)
+  [[code]](https://github.com/NJUyued/PRG4SSL-MNAR)
+  [[zhihu]](https://zhuanlan.zhihu.com/p/653555164)
   - Yue Duan, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi. *ICCV 2023*
 
 - Semi-supervised learning made simple with self-supervised clustering.

@@ -1,5 +1,11 @@
 ## Other
 
+### 2024
+- PG-LBO: Enhancing High-Dimensional Bayesian Optimization with Pseudo-Label and Gaussian Process Guidance.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/29018/29931)
+  [[code]](https://github.com/TaicaiChen/PG-LBO)
+  - Taicai Chen, Yue Duan, Dong Li, Lei Qi, Yinghuan Shi, Yang Gao. *AAAI 2024*
+
 ### 2022
 
 - SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training.
