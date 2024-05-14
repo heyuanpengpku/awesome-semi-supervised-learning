@@ -3,6 +3,10 @@
 
 ### 2023
 
+- Querying Labeled for Unlabeled: Cross-Image Semantic Consistency Guided Semi-Supervised Semantic Segmentation.
+  [[pdf]](https://ieeexplore.ieee.org/document/10005033)
+  - Linshan Wu, Leyuan Fang, Xingxin He, Min He, Jiayi Ma, and Zhun Zhong. *TPAMI 2023*
+
 - Fuzzy Positive Learning for Semi-Supervised Semantic Segmentation. 
   [[project page]](https://github.com/qpc1611094/FPL) 
   - Pengchong Qiao, Zhidan Wei, Yu Wang, Zhennan Wang, Guoli Song, Fan Xu, Xiangyang Ji, Chang Liu, and Jie Chen. *CVPR 2023*

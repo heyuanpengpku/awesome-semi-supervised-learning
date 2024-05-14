@@ -3,9 +3,9 @@
 
 ### 2023
 
-- Semi-supervised Single-view 3D Reconstruction via Prototype Shape Priors. 
+- CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations.
   [[pdf]](https://arxiv.org/abs/2209.15383) 
-  - Zhen Xing, Hengduo Li, Zuxuan Wu, Yu-Gang Jiang, *ECCV 2022*
+  -  Qiming Xia, Jinhao Deng, Chenglu Wen, Hai Wu, Shaoshuai Shi, Xin Li, Cheng Wang , *CVPR 2023*
 
 - SVFormer: Semi-supervised Video Transformer for Action Recognition. 
   [[pdf]](https://arxiv.org/abs/2211.13222) 
@@ -60,6 +60,10 @@
   - Zimeng Zhao, Binghui Zuo, Zhiyu Long, and Yangang Wang. *2023*
 
 ### 2022
+
+- Semi-supervised Single-view 3D Reconstruction via Prototype Shape Priors. 
+  [[pdf]](https://arxiv.org/abs/2209.15383) 
+  - Zhen Xing, Hengduo Li, Zuxuan Wu, Yu-Gang Jiang, *ECCV 2022*
 
 - Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset.
   [[pdf]](https://papers.nips.cc/paper_files/paper/2022/hash/afe99e55be23b3523818da1fefa33494-Abstract-Conference.html)
