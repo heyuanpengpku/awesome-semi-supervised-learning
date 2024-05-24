@@ -6,6 +6,11 @@
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29068/30023)
   [[code]](https://github.com/NJUyued/SoC4SS-FGVC)
   - Yue Duan, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi. *AAAI 2024*
+
+- Towards Realistic Long-tailed Semi-supervised Learning in an Open World.
+  [[pdf]](https://arxiv.org/abs/2405.14516)
+  [[code]](https://github.com/heyuanpengpku/ROLSSL) 
+  - Yuanpeng He, Lijian Li, Yali Bi, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, Zhi Jin. *arXiv 2024*
   
 ### 2023
 
